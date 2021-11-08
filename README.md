@@ -1,5 +1,5 @@
-# Repositório (Bootcamp DIO) - Fullstack JavaScrip - Revelo
-Primeiro projeto, referente ao bootcamp DIO/Revelo
+# Repositório (Bootcamp DIO) - Fullstack JavaScrip - Impulso
+Primeiro projeto, referente ao bootcamp DIO/Impulso
 
 ## Links  Úteis
 
